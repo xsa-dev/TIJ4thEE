@@ -32,7 +32,7 @@ public class tij0201 {
     }
 }
 
-/* Output (match 100%)
+/* Output (100% match)
 0
 
  *///:~
