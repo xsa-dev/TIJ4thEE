@@ -1,5 +1,5 @@
-package tij01;
-//: tij01/ATypeName.java
+package tij02;
+//: tij02/ATypeName.java
 
 /**
  * Created by xsd on 07.04.2017 with love.

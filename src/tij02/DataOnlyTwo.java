@@ -1,4 +1,6 @@
-package tij01;
+package tij02;
+
+//: tij02/DataOnlyTwo.java
 
 /**
  * Created by xsd on 07.04.2017 with love.

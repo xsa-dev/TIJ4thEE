@@ -1,4 +1,4 @@
-package tij01;
+package tij02;
 
 /**
  * Created by xsd on 07.04.2017.
@@ -7,9 +7,9 @@ package tij01;
  * @version 0.1
  */
 
-//: tij01/tij0101.java
+//: tij02/tij0201.java
 
-public class tij0101 {
+public class tij0201 {
     /**
      * Точка входа в класс и приложение
      * @param first целочисленное поле первой переменной

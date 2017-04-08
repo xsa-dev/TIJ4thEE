@@ -1,5 +1,5 @@
-package tij01;
-//: tij01/tij0102.java
+package tij02;
+//: tij02/tij0202.java
 
 /**
  * Created by xsd on 07.04.2017 with love.
@@ -13,7 +13,7 @@ package tij01;
      @version 0.1
      */
 
-    public class tij0102 {
+    public class tij0202 {
 
         /**
          * Точка входа в класс и приложение
