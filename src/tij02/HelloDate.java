@@ -1,3 +1,4 @@
+package tij02;
 //: object/HelloDate.java
 
 import java.util.*;
@@ -16,7 +17,7 @@ public class HelloDate {
      * Точка входа в класс и приложение
      *
      * @param args Массив строковых аргументов
-     * @throws exceptions Исключения не выдаются
+     * @throws Exception Исключения не выдаются
      */
     public static void main(String[] args) {
         System.out.println("Привет, сегодня: ");
