@@ -1,12 +1,15 @@
 package tij02;
 
+//: objects/Documentation2.java
+
 /**
- * Created by xsd on 12.04.2017 with love.
- * :)
- *
- * @author xsd
- * @author alekseysavin.com
- * @version 0.1
+ * <pre>
+ *     System.out.println(new Date());
+ * </pre>
  */
 public class Documentation2 {
+    public static void main(String[] args) {
+
+    }
 }
+///:~

@@ -4,20 +4,19 @@ package tij02;
 import java.util.*;
 
 /**
- * Первая программа-пример книги.
- * Выводит строку и текущее число.
+ * First program
+ * Print in line string today date
  *
- * @author Брюс Эккель
+ * @author Brus Ekkel
  * @author www.MindView.net
  * @version 4.0
  */
 
 public class HelloDate {
     /**
-     * Точка входа в класс и приложение
+     * Inner enter class point
      *
-     * @param args Массив строковых аргументов
-     * @throws Exception Исключения не выдаются
+     * @param args Massive arguments
      */
     public static void main(String[] args) {
         System.out.println("Привет, сегодня: ");
