@@ -3,7 +3,7 @@ package tij03;
 /**
  * Created by xsd on 16.04.2017 with love.
  * :)
- * <p>
+ *
  * Example of alliasing
  *
  * @author xsd
