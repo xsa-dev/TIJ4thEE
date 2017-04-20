@@ -6,7 +6,7 @@ import java.util.Random;
  * Created by xsd on 20.04.2017 with love.
  * :)
  * Вычисляем скорость от постоянных расстояния и времени
- *
+ * Значения расстояния и времени постоянно рандомные
  * @author xsd
  * @author alekseysavin.com
  * @version 0.1
