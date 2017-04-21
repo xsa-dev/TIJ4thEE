@@ -26,6 +26,6 @@ public class tij0304 {
 
         sp = (float) di / ti;
 
-        System.out.println(sp + " m/s");
+        System.out.println("Speed: " + sp + " m/s");
     }
 }
