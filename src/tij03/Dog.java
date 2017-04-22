@@ -17,6 +17,15 @@ public class Dog {
         dogone.says = "Whoof!!!";
         dogtwo.says = "Whrrl!!";
 
+        Dog dogthree = new Dog();
+
+        dogthree.name = dogone.name;
+
+        System.out.println(dogthree == dogone);
+        System.out.println(dogthree == dogtwo);
+        System.out.println(dogthree.equals(dogone));
+        System.out.println(dogthree.equals(dogtwo));
+
         System.out.println("Собака " + dogone.name + " говорит " + dogone.says);
         System.out.println("Собака " + dogtwo.name + " говорит " + dogtwo.says);
     }
