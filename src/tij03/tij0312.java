@@ -20,7 +20,7 @@ public class tij0312 {
         x <<= 25;
         System.out.println(Integer.toBinaryString(x));
         //right bezznak
-        x >>>= 25;
+        x >>>= 15;
         System.out.println(Integer.toBinaryString(x));
     }
 }
