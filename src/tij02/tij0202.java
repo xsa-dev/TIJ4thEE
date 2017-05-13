@@ -7,7 +7,7 @@ package tij02;
  */
 
     /**
-     Первая программа типа: "Привет Мир" по упражнениям из Книги Философия Java 4ое Издание
+     Привет мир!
      @author xsd
      @author alekseysavin.com
      @version 0.1
@@ -18,7 +18,6 @@ package tij02;
         /**
          * Точка входа в класс и приложение
          * @param args Массив строковых элементов
-         * @throws Exception Исключения не выдаются
          */
 
         public static void main (String[] args) {
