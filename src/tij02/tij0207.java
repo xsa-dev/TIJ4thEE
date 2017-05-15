@@ -39,7 +39,6 @@ public class tij0207 {
      * Метод main создаёт новый объект, выполняет метод increment класса incrementable, выводит значение объекта
      *
      * @param args Массив входных парамеров - не используется
-     * @trhrows Исключения не выбрасываются
      */
     public static void main(String[] args) {
 
