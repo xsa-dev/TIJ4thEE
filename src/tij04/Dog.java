@@ -25,7 +25,7 @@ public class Dog {
 
     }
 
-    public String bark (int x, String) {
+    public String bark (int x, String str) {
         String out = "";
         for (int i = 0; i <= 4; i++) {
             out = out + out;
