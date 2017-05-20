@@ -12,7 +12,7 @@ public class Dog {
         }
     }
 
-    Dog(int i, String x) {
+    Dog(int i, String x, String t) {
 
     }
 
