@@ -5,6 +5,8 @@ package tij05;
  */
 public class Dog2 {
 
+    String bark() {return "";};
+
     Dog2(int x) { //Завывание
         String out = "УУУУУуууу!!! ";
         for (int i = 0; i <= x; i++) {
@@ -43,5 +45,7 @@ public class Dog2 {
         Dog2 hnDog = new Dog2(5, "Mister", "Miss");
         Dog2 hnDog2 = new Dog2("Mister", "Miss", 5);
         Dog2 woDog2 = new Dog2("Алексей", 5);
+
+        woDog2.bark();
     }
 }
